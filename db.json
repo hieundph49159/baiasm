@@ -1,0 +1,522 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "fullName": "Admin",
+      "email": "admin@admin.com",
+      "phoneNumber": "",
+      "password": "admin",
+      "isAdmin": true
+    },
+    {
+      "id": "04c7",
+      "fullName": "nguyen van a",
+      "email": "test@gmail.com",
+      "phoneNumber": "0987654321",
+      "password": "123456",
+      "cart": [
+        {
+          "id": "b1685626-ff03-4401-bc29-453bc5964d1a",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "fullName": "duc hieu",
+      "email": "hieu@gmail.com",
+      "phoneNumber": "01233345677",
+      "id": "ack7usuc0",
+      "cart": [],
+      "password": "123456"
+    },
+    {
+      "id": "6n9iyxhqu",
+      "fullName": "duchieu",
+      "email": "duchieu@gmail.com",
+      "phoneNumber": "0123123123",
+      "password": "123456",
+      "cart": []
+    },
+    {
+      "fullName": "hieundp49159",
+      "email": "hieundph49159@gmail.com",
+      "phoneNumber": "0378967839",
+      "id": "l06hqyzsv",
+      "cart": [],
+      "password": "123456"
+    }
+  ],
+  "plants": [
+    {
+      "id": "1",
+      "name": "Spider Plant",
+      "price": "250.000đ",
+      "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+      "lightPreference": "Ưa bóng",
+      "quantity": 104
+    },
+    {
+      "id": "2",
+      "name": "Song of India",
+      "price": "265.000đ",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpok3ii87tck9c",
+      "lightPreference": "Ưa sáng",
+      "quantity": 148
+    },
+    {
+      "id": "3",
+      "name": "Grey Star Calarthea",
+      "price": "255.000đ",
+      "image": "https://cdn11.bigcommerce.com/s-oqm1pc/images/stencil/1280x1280/products/6650/27801/e1e92163-38c3-5eb4-8a2d-6caa0c79e02e__03120.1713469985.jpg?c=3",
+      "lightPreference": "Ưa bóng",
+      "quantity": 252
+    },
+    {
+      "id": "4",
+      "name": "Banana Plant",
+      "price": "175.000đ",
+      "image": "https://product.hstatic.net/200000555893/product/cay-la-dong-gia-4_b71ca425645748808aae113d4ff96dd7.jpg",
+      "lightPreference": "Ưa sáng",
+      "quantity": 352
+    },
+    {
+      "name": "cay hoa hong12",
+      "price": "175.000.000đ",
+      "image": "https://cayxanhgiapham.com/wp-content/uploads/2020/07/cay-hoa-hong-150x150.jpg",
+      "quantity": 35,
+      "lightPreference": "Ưa sáng",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "name": "Banana Plant",
+      "price": "175.000đ",
+      "image": "https://product.hstatic.net/200000555893/product/cay-la-dong-gia-4_b71ca425645748808aae113d4ff96dd7.jpg",
+      "lightPreference": "Ưa sáng",
+      "quantity": 352
+    },
+    {
+      "id": "0783",
+      "name": "cay tre",
+      "price": "200.00d",
+      "image": "https://storage.yeubonsai.vn/Data/2023/12/02/cay-tre-3-638371520309931454.jpg?w=800&format=webp",
+      "quantity": 20,
+      "lightPreference": "Ưa sáng"
+    },
+    {
+      "id": "c5f9",
+      "name": "Cay dao",
+      "price": "220000",
+      "image": "https://media.vietq.vn/files/lelan/2017/11/28/dao-28-11-2017.jpg",
+      "quantity": 29,
+      "lightPreference": "Ưa sáng"
+    }
+  ],
+  "pots": [
+    {
+      "id": "1a",
+      "name": "Planta Rosewood",
+      "price": "105.000đ",
+      "image": "https://jysk.vn/Data/Sites/1/Product/11754/4912192-coc-frederik-gom-xanh-xanh-la-jysk-9.jpg",
+      "quantity": 228
+    },
+    {
+      "id": "2a",
+      "name": "Planta Dove Grey",
+      "price": "150.000đ",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxlYGGNe1kEC5GM7b89GPdNP_EIAPBLwIHvx9NojYFchAfO34W",
+      "quantity": 181
+    },
+    {
+      "id": "3a",
+      "name": "Planta Trắng",
+      "price": "250.000đ",
+      "image": "https://mayflowers.ca/cdn/shop/files/IMG_6362.jpg?v=1690467312&width=493",
+      "quantity": 322
+    },
+    {
+      "id": "4a",
+      "name": "Planta Lemon Balm",
+      "price": "250.000đ",
+      "image": "https://down-br.img.susercontent.com/file/sg-11134201-22120-e89n7ns51vkvb4",
+      "quantity": 291
+    }
+  ],
+  "accessories": [
+    {
+      "id": "1b",
+      "name": "Bình tưới CB2 SAIC",
+      "price": "250.000đ",
+      "image": "https://cdn1.bigcommerce.com/server600/eqcqd/products/39471/images/932797/ctc1786-spwh_1__28657.1709641150.1280.1280.jpg?c=2",
+      "quantity": 152
+    },
+    {
+      "name": "Bình xịt Xiaoda new",
+      "price": "250.000đ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgi9nWip7wChefM5hm1FqERhlVindWNhNzjuLMp8vl-ZbcrpwJ",
+      "quantity": 204,
+      "id": "2b"
+    },
+    {
+      "id": "3b",
+      "name": "Bộ cuốc xẻng mini",
+      "price": "300.000đ",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-pww6uxpv61nvad",
+      "quantity": 103
+    },
+    {
+      "id": "4b",
+      "name": "Giá đỡ Finn Terrazzo",
+      "price": "1.250.000đ",
+      "image": "https://casanha.com/wp-content/uploads/2024/12/kiotviet_127ae7cc74e88c86e35242c50a477470.jpg",
+      "quantity": 121
+    }
+  ],
+  "combos": [
+    {
+      "id": "1",
+      "name": "Lemon Balm Grow Kit",
+      "image": "https://m.media-amazon.com/images/I/81JO+HAYIrL._AC_SY450_.jpg",
+      "subtitle": "Gồm: hạt giống Lemon Balm, giá đỡ hữu cơ, chậu Planta, marker đánh dấu..."
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-123456789",
+      "userId": "04c7",
+      "customerInfo": {
+        "fullName": "nguyen van a",
+        "email": "test@gmail.com",
+        "phoneNumber": "0987654321",
+        "address": "123 Đường ABC, Quận 1, TP.HCM"
+      },
+      "items": [
+        {
+          "id": "0f518347-b528-4430-80ea-7db4c22b03b2",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 2,
+          "type": "plant"
+        },
+        {
+          "id": "5960ec02-e73a-41df-8d7b-ac6e8069833a",
+          "productId": "2a",
+          "name": "Planta Dove Grey",
+          "price": "150.000đ",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxlYGGNe1kEC5GM7b89GPdNP_EIAPBLwIHvx9NojYFchAfO34W",
+          "quantity": 1,
+          "type": "pot"
+        }
+      ],
+      "totalAmount": "650.000đ",
+      "shippingFee": "30.000đ",
+      "finalAmount": "680.000đ",
+      "paymentMethod": "COD",
+      "status": "Đã hoàn thành",
+      "orderDate": "2025-04-05T14:28:36.789Z"
+    },
+    {
+      "id": "ord-1744354582471407",
+      "userId": "04c7",
+      "customerInfo": {
+        "fullName": "nguyen van a",
+        "email": "test@gmail.com",
+        "phoneNumber": "0987654321",
+        "address": "have noi"
+      },
+      "items": [
+        {
+          "id": "0710a125-8647-4c3f-a00f-85bf7797c4e9",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 2,
+          "type": "plant"
+        }
+      ],
+      "totalAmount": "500,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "530,000đ",
+      "paymentMethod": "COD",
+      "status": "Đang xử lý",
+      "orderDate": "2025-04-11T06:56:22.471Z"
+    },
+    {
+      "id": "ord-1744355142718574",
+      "userId": "ack7usuc0",
+      "customerInfo": {
+        "fullName": "duc hieu",
+        "email": "hieu@gmail.com",
+        "phoneNumber": "0378967839",
+        "address": "have loi"
+      },
+      "items": [
+        {
+          "id": "8bab00ff-d529-4aee-823f-07bddb2cb7d6",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 3,
+          "type": "plant"
+        }
+      ],
+      "totalAmount": "750,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "780,000đ",
+      "paymentMethod": "COD",
+      "status": "Đang xử lý",
+      "orderDate": "2025-04-11T07:05:42.718Z"
+    },
+    {
+      "id": "ord-1744373387891732",
+      "userId": "ack7usuc0",
+      "customerInfo": {
+        "fullName": "duc hieu",
+        "email": "hieu@gmail.com",
+        "phoneNumber": "01233345677",
+        "address": "giant cat "
+      },
+      "items": [
+        {
+          "id": "14792d9c-e639-44f3-a300-29714204181b",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 2,
+          "type": "plant"
+        },
+        {
+          "id": "ba2827f9-9524-43ec-b1da-6320b166043e",
+          "productId": "2",
+          "name": "Song of India",
+          "price": "265.000đ",
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpok3ii87tck9c",
+          "quantity": 1,
+          "type": "plant"
+        },
+        {
+          "id": "bed499b9-15df-4a30-9170-e937440f825c",
+          "productId": "3a",
+          "name": "Planta Trắng",
+          "price": "250.000đ",
+          "image": "https://mayflowers.ca/cdn/shop/files/IMG_6362.jpg?v=1690467312&width=493",
+          "quantity": 1,
+          "type": "pot"
+        }
+      ],
+      "totalAmount": "1,015,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "1,045,000đ",
+      "paymentMethod": "COD",
+      "status": "Đã hoàn thành",
+      "orderDate": "2025-04-11T12:09:47.891Z"
+    },
+    {
+      "id": "ord-174437363551366",
+      "userId": "ack7usuc0",
+      "customerInfo": {
+        "fullName": "duc hieu",
+        "email": "hieu@gmail.com",
+        "phoneNumber": "01233345677",
+        "address": "123\n"
+      },
+      "items": [
+        {
+          "id": "7bc27ea4-b5ae-4c08-b6f7-89c896d29a7b",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 1,
+          "type": "plant"
+        }
+      ],
+      "totalAmount": "250,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "280,000đ",
+      "paymentMethod": "COD",
+      "status": "Đã hoàn thành",
+      "orderDate": "2025-04-11T12:13:55.513Z"
+    },
+    {
+      "id": "ord-1744373669554193",
+      "userId": "ack7usuc0",
+      "customerInfo": {
+        "fullName": "duc hieu",
+        "email": "hieu@gmail.com",
+        "phoneNumber": "01233345677",
+        "address": "123\n"
+      },
+      "items": [
+        {
+          "id": "7bc27ea4-b5ae-4c08-b6f7-89c896d29a7b",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 1,
+          "type": "plant"
+        }
+      ],
+      "totalAmount": "250,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "280,000đ",
+      "paymentMethod": "COD",
+      "status": "Đã hoàn thành",
+      "orderDate": "2025-04-11T12:14:29.554Z"
+    },
+    {
+      "id": "ord-1744375593719402",
+      "userId": "6n9iyxhqu",
+      "customerInfo": {
+        "fullName": "duchieu",
+        "email": "duchieu@gmail.com",
+        "phoneNumber": "0123123123",
+        "address": "nha\n"
+      },
+      "items": [
+        {
+          "id": "2b2d8487-9a09-4205-81dc-5d2c13342385",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 1,
+          "type": "plant"
+        }
+      ],
+      "totalAmount": "250,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "280,000đ",
+      "paymentMethod": "COD",
+      "status": "Đã hoàn thành",
+      "orderDate": "2025-04-11T12:46:33.719Z"
+    },
+    {
+      "id": "ord-1744375993883807",
+      "userId": "l06hqyzsv",
+      "customerInfo": {
+        "fullName": "hieundp49159",
+        "email": "hieundph49159@gmail.com",
+        "phoneNumber": "0378967839",
+        "address": "Nha hieu"
+      },
+      "items": [
+        {
+          "id": "6d9d48c1-fee0-4aa1-bd71-1ac38aefd41d",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 1,
+          "type": "plant"
+        },
+        {
+          "id": "b7b7323a-3cb9-4d54-a511-28c2ecc093b0",
+          "productId": "1b",
+          "name": "Bình tưới CB2 SAIC",
+          "price": "250.000đ",
+          "image": "https://cdn1.bigcommerce.com/server600/eqcqd/products/39471/images/932797/ctc1786-spwh_1__28657.1709641150.1280.1280.jpg?c=2",
+          "quantity": 1,
+          "type": "accessory"
+        },
+        {
+          "id": "0bff18ae-1470-4bc2-9c35-8c3774a4913e",
+          "productId": "46b1",
+          "name": "Cay dao",
+          "price": "1200000",
+          "image": "https://media.vietq.vn/files/lelan/2017/11/28/dao-28-11-2017.jpg",
+          "quantity": 1,
+          "type": "accessory"
+        }
+      ],
+      "totalAmount": "1,700,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "1,730,000đ",
+      "paymentMethod": "COD",
+      "status": "Đã hoàn thành",
+      "orderDate": "2025-04-11T12:53:13.883Z"
+    },
+    {
+      "id": "ord-1744376349265935",
+      "userId": "l06hqyzsv",
+      "customerInfo": {
+        "fullName": "hieundp49159",
+        "email": "hieundph49159@gmail.com",
+        "phoneNumber": "0378967830",
+        "address": "123 "
+      },
+      "items": [
+        {
+          "id": "b83425f0-7fad-410a-928d-50758fcfd476",
+          "productId": "1",
+          "name": "Spider Plant",
+          "price": "250.000đ",
+          "image": "https://www.flowerstation.co.uk/cdn/shop/files/spider-plant-res-brown__30216.1691515154.800.800.jpg?v=1720103432",
+          "quantity": 1,
+          "type": "plant"
+        }
+      ],
+      "totalAmount": "250,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "280,000đ",
+      "paymentMethod": "COD",
+      "status": "Đang xử lý",
+      "orderDate": "2025-04-11T12:59:09.265Z"
+    },
+    {
+      "id": "ord-1744376573607535",
+      "userId": "l06hqyzsv",
+      "customerInfo": {
+        "fullName": "hieundp49159",
+        "email": "hieundph49159@gmail.com",
+        "phoneNumber": "0378967830",
+        "address": "nha"
+      },
+      "items": [
+        {
+          "id": "095a70b0-7a6c-455f-9c5c-e2f38151f92f",
+          "productId": "c5f9",
+          "name": "Cay dao",
+          "price": "220000",
+          "image": "https://media.vietq.vn/files/lelan/2017/11/28/dao-28-11-2017.jpg",
+          "quantity": 1,
+          "type": "plant"
+        },
+        {
+          "id": "c2b2b06b-70af-46d7-9ec4-b578a75e927c",
+          "productId": "4a",
+          "name": "Planta Lemon Balm",
+          "price": "250.000đ",
+          "image": "https://down-br.img.susercontent.com/file/sg-11134201-22120-e89n7ns51vkvb4",
+          "quantity": 1,
+          "type": "pot"
+        },
+        {
+          "id": "e3be7703-4224-49c0-a420-085a0b6c8654",
+          "productId": "3b",
+          "name": "Bộ cuốc xẻng mini",
+          "price": "300.000đ",
+          "image": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-pww6uxpv61nvad",
+          "quantity": 1,
+          "type": "accessory"
+        }
+      ],
+      "totalAmount": "770,000đ",
+      "shippingFee": "30,000đ",
+      "finalAmount": "800,000đ",
+      "paymentMethod": "COD",
+      "status": "Đã hoàn thành",
+      "orderDate": "2025-04-11T13:02:53.607Z"
+    }
+  ]
+}
